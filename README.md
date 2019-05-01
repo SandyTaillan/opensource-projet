@@ -45,8 +45,9 @@ Les administrateurs auront aussi pour missions d’organiser des réunions avec 
 
 Ce projet est **participatif**, et tout les développeurs du projet peuvent voter pour donner leurs avis lors des réunions. Les personnes les plus motivées  auront un droit de vote plus important.
 
-[Lien vers la license du projet]()<br>
-[Lien vers le CONTRIBUTING du projet]()
+[Lien vers la license du projet](https://github.com/SandyTaillan/opensource-projet/blob/master/LICENSE)<br>
+[Lien vers le CONTRIBUTING du projet](https://github.com/SandyTaillan/opensource-projet/blob/master/CONTRIBUTING.md)
+
 ##Pour nous contacter
 Melissendra : gaellion17@gmail.com<br>
 Sandy : projet_opensource@yahoo.com
