@@ -2,24 +2,40 @@
 
 
 ## Description du projet :
-Projet _collaboratif_ sur la création d’une application web de  « gestion de projet » à destination des développeurs.
+Projet _collaboratif_ sur la création d’une application web de  « gestion de projet » à destination des développeurs.<br>
+Ensuite, nous réaliserons une application logicielle du projet. 
 
 **Idées sur le projet**:<br>
 Faire un système de gestion de projets pour plusieurs équipes en réseau ou accès internet.<br>
-Par exemple :
-- un planning par projet,
-- Gestion des équipes,
-- statistique
-- gestion des évènements
-- diagramme – visualisations des commits, branches, etc.
-- tchat pour discussion ou bot relié à un discord.
+Nous souhaitons implanter (dans le désordre) :
 
-Possibilité de plusieurs langages informatiques.<br>
-Possibilité d’un côté « dev web » et un autre plus logiciel.
+* diagramme UML ;
+* diagramme de Gantt ;
+* Flow charts ;
+* intégration de git ;
+* importation de données ;
+* chat ;
+* tutos ;
+* gestionnaire de fichiers ;
+* visualisation des intervenants ;
+* visualisation des tâches et avancées ;
+* gestion des todos et des fixme ;
+* brainstorming.
+
+**Langages informatiques possibles** : HTML, CSS, Javascript, Electron.js <br>
 
 ## Direction
 **Initiatrice du projet** : Sandy Taillan<br>
 **Administratrices** : Melissendra, Sandy Taillan
+
+## Développeurs principaux
+* DOM ;
+* Fred ;
+* Lowla ;
+* Melissendra ;
+* Mielpops ;
+* Parzival ;
+* Sandy Taillan.
 
 ## Notre projet
 Pour commencer, merci d’avoir ouvert ce fichier et de montrer de l’intérêt pour notre projet.
@@ -48,6 +64,6 @@ Ce projet est **participatif**, et tout les développeurs du projet peuvent vote
 [Lien vers la license du projet](https://github.com/SandyTaillan/opensource-projet/blob/master/LICENSE)<br>
 [Lien vers le CONTRIBUTING du projet](https://github.com/SandyTaillan/opensource-projet/blob/master/CONTRIBUTING.md)
 
-##Pour nous contacter
+## Pour nous contacter
 Melissendra : gaellion17@gmail.com<br>
 Sandy : projet_opensource@yahoo.com

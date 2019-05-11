@@ -5,8 +5,8 @@ Melissendra : gaellion17@gmail.com<br>
 Sandy Taillan : projet_opensource@yahoo.com
 
 
-Vous pouvez aussi nous joindre en privé sur le Discord Python France :<br>
-https://discord.gg/UPbnr6
+Vous pouvez aussi nous joindre le Discord du projet :<br>
+[Notre Discord](https://discord.gg/63xjsDu)
 
 tout le monde peut participer : Un développeur (développeuse) ou simplement une
 personne prête à nous donner de son temps pour créer ou relire la documentation
@@ -17,8 +17,6 @@ A savoir, le **français** sera la langue utilisée sur ce projet.
 
 
 Pour le moment, nous n'en sommes qu'à la partie "réflexions" de notre projet.
-
-
 
 # CODE DE CONDUITE
 
